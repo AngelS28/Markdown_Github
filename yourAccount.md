@@ -15,7 +15,16 @@ The password should be at least:  <br />
 * 15 characters long with any combination of characters. <br />
 * Generate a unique password for GitHub. If you use your GitHub password elsewhere and that service is compromised, then attackers or other malicious actors could use that information to access your account on GitHub. 
 
+## 2. Verifying your email address <br />
+You can verify your email address after signing up for a new account, or when you add a new email address. If an email address is undeliverable or bouncing, it will be unverified. <br />
 
+### Here are the steps to verify your email: <br />
+
+1. In the upper-right corner of any page, click your profile photo, then click **Settings**.
+
+![Settings](
+
+3. 
 
 
 
