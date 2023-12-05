@@ -1,6 +1,6 @@
 # Navigator Of GitHub<br />
 
-## Made by Angel Sun <br />
+### Made by Angel Sun <br />
 
 
 * The purpose of this tutorial is to help new users navigate and learn some of the interesting features that have been embedded in GitHub. In this tutorial, I will demonstrate how to create a personal account, import or create repositories, collaborate and work with others, and try to build a connection with the GitHub community. <br />
