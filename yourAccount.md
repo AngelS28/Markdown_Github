@@ -13,6 +13,7 @@ The password should be at least:  <br />
 
 * 8 characters long, if it includes a number and a lowercase letter or,
 * 15 characters long with any combination of characters. <br />
+* Generate a unique password for GitHub. If you use your GitHub password elsewhere and that service is compromised, then attackers or other malicious actors could use that information to access your account on GitHub. 
 
 
 
