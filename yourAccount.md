@@ -36,7 +36,7 @@ You can verify your email address after signing up for a new account or adding a
 
 <br />
 
-[Prvious Page](https://github.com/AngelS28/Markdown_Github/blob/main/GitHub's%20Tools%20and%20Features.md)
+[Previous Page](https://github.com/AngelS28/Markdown_Github/blob/main/GitHub's%20Tools%20and%20Features.md)
 
 <br/>
 
