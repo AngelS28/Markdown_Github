@@ -26,6 +26,7 @@ You can unfollow someone if you do not wish to see their public activity on GitH
  <br/>
 
 ![](https://github.com/AngelS28/Markdown_Github/blob/main/Images/generalSetting.png)
+
 <br />
 
 2. Click on the **Collaborators** on the left sidebar, then it will show who had access to your repository. You can also invite people to be your collaborator by clicking on **Add People**.
@@ -39,6 +40,8 @@ You can unfollow someone if you do not wish to see their public activity on GitH
 <br />
 
 ![](https://github.com/AngelS28/Markdown_Github/blob/main/Images/searchPeople.png) 
+
+<br />
 
 ## Watching a repository
 You can subscribe to a repository to watch it and receive notifications for activity in it. When the owner updates the repository, you will see the changes in your peronal dashboard.
