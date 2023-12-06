@@ -13,12 +13,9 @@ To use Git on the command line, you'll need to download, install, and configure 
 ## Setting up Git 
 
 1. [Download and install Git](https://git-scm.com/downloads) <br />
-**NOTE**: Most Chrome OS devices from 2020 onwards now have a built-in Linux environment, which includes Git. To enable it, go to the Launcher, search Linuex, and click **Turn On**.
-<br />
+<br />**NOTE**: Most Chrome OS devices from 2020 onwards now have a built-in Linux environment, which includes Git. To enable it, go to the Launcher, search Linuex, and click **Turn On**.
+<br />If you are using an older Chrome OS device, another method is reuqired: 
 
-If you are using an older Chrome OS device, another method is reuqired: 
-<br />
-  
 a. Install a terminal emulator such as Termux from the Google Play Store on your Chrome OS device.
 <br />
   
