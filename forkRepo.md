@@ -17,7 +17,7 @@ You might fork a project to propose changes to the upstream repository. In this 
 
 <br />
 
-2.. In the top-right corner of the page, click **Fork**.
+2. In the top-right corner of the page, click **Fork**.
 
 <br />
 
