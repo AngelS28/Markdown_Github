@@ -14,10 +14,10 @@ To use Git on the command line, you'll need to download, install, and configure 
 
 1. [Download and install Git](https://git-scm.com/downloads) <br />
 <br />**NOTE**: Most Chrome OS devices from 2020 onwards now have a built-in Linux environment, which includes Git. To enable it, go to the Launcher, search Linuex, and click **Turn On**.
-<br /> <br />If you are using an older Chrome OS device, another method is reuqired: 
+<br /> <br />If you are using an older Chrome OS device, another method is reuqired: <br />
 
-<br /> <br />a. Install a terminal emulator such as Termux from the Google Play Store on your Chrome OS device.
-<br /> <br />b. From the ternminal emulator that you installed, install Git. For example, in Termux, enter `apt install git` and then type `y` when prompted.  <br />
+<br />a. Install a terminal emulator such as Termux from the Google Play Store on your Chrome OS device. <br />
+<br />b. From the ternminal emulator that you installed, install Git. For example, in Termux, enter `apt install git` and then type `y` when prompted.  <br />
   
 
   3. Setting up your Git username for **every** repository on your computer <br />
