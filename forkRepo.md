@@ -14,3 +14,21 @@ You might fork a project to propose changes to the upstream repository. In this 
 <br />
 
 1. Go to GitHub.com and navigate to [AngelS28/helloYou](https://github.com/AngelS28/helloYou) repository.
+<br />
+
+2.. In the top-right corner of the page, click **Fork**.
+![](https://github.com/AngelS28/Markdown_Github/blob/main/Images/forkReop.png)
+
+3. Under "Owner", select the drop won menu and click an owner for the forked repository.
+<br />
+
+4. By defualt, forks are named the same as their upstream repositories. Optionally, to further distinguish your fork, in the "Repository name" field, type a name.
+  <br />
+
+5. Optionally, in the "Description" field, type a description of your fork.
+<br />
+
+6. Optionally, select **Copy the DEFAULT branch only**. For many forking scenarios, such as contributing to open source projects, you only need to copy the default branch.
+<br />
+
+7. Finally, click on **Create fork**. 
