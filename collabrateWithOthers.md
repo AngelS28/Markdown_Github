@@ -1,4 +1,4 @@
-# Build Connection
+# Build Collaboration 
 You can interact with people, repositories and organizations in GitHub. 
 
 ## Following people 
