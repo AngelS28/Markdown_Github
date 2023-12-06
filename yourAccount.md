@@ -35,9 +35,11 @@ You can verify your email address after signing up for a new account or adding a
 <br />
 
 <br />
+
 [Prvious Page](https://github.com/AngelS28/Markdown_Github/blob/main/yourAccount.md) 
 
 <br/>
+
 [Next Page](https://github.com/AngelS28/Markdown_Github/blob/main/createRepository.md)
 
 
