@@ -5,6 +5,7 @@ You can store a variety of projects in GitHub repositories, including open-sourc
 ## Make a new repository 
 
 1. In the upper-right corner of your GitHub page, click the + sign, then click **New repository** 
+<br />
 
 ![](https://github.com/AngelS28/Markdown_Github/blob/main/Images/newRepo.png)
 
@@ -59,6 +60,7 @@ Let's commit a change to the README file.
 <br />
 
 <br />
+
 [Previous Page](https://github.com/AngelS28/Markdown_Github/blob/main/yourAccount.md) 
 
 <br />
