@@ -27,4 +27,17 @@ You can store a variety of projects in GitHub repositories, including open-sourc
 6. Click on **Create Repository**
 <br />
 <br />
-Congratulations! You've completed the tutorial by successfully creating your first repository! 
+
+**Commit your first change 
+When you had finished creating your new repository, you initialized it with a *README* file. *README* file is a great place to describe your project in more detail or add some documentation such as how to install or use your project. THe contents of your *README* file are automatically shown on the front page of your repository.
+<br />
+Let's commit a change to the README file. 
+<br />
+
+1. In your repository's list of files, select *README.md*
+
+
+2. In the upper right corner of the file view, click on the  ✏ sign to open the file editor.
+
+ 
+
