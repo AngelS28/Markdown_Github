@@ -7,3 +7,7 @@ You can store a variety of projects in GitHub repositories, including open-sourc
 1. In the upper-right corner of your GitHub page, click the + sign, then click **New repository** 
 
 ![](https://github.com/AngelS28/Markdown_Github/blob/main/Images/newRepo.png)
+
+2. Type in the name of your repository.
+
+![](https://github.com/AngelS28/Markdown_Github/blob/main/Images/nameRepo.png)
