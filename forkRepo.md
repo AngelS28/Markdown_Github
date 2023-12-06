@@ -14,14 +14,17 @@ You might fork a project to propose changes to the upstream repository. In this 
 <br />
 
 1. Go to GitHub.com and navigate to [AngelS28/helloYou](https://github.com/AngelS28/helloYou) repository.
+
 <br />
 
 2.. In the top-right corner of the page, click **Fork**.
+
 <br />
 
 ![](https://github.com/AngelS28/Markdown_Github/blob/main/Images/forkReop.png)
 
 3. Under "Owner", select the drop won menu and click an owner for the forked repository.
+
 <br />
 
 4. By defualt, forks are named the same as their upstream repositories. Optionally, to further distinguish your fork, in the "Repository name" field, type a name.
