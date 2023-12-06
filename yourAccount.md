@@ -22,7 +22,7 @@ You can verify your email address after signing up for a new account, or when yo
 
 1. In the upper-right corner of any page, click your profile photo, then click **Settings**.
 
-![Settings](
+![Settings](https://github.com/AngelS28/Markdown_Github/blob/main/Images/Settings.png)
 
 3. 
 
