@@ -59,3 +59,10 @@ You now have Git and GitHub all set up. You may now choose to create a repositor
 <br />
 
 * GitHub has a great support community where you can aks for jep and talk to people from around the world. Join the conversion on "GitHub Community"
+<br />
+
+<br />
+
+<br />
+
+[Back to Mainpage](https://github.com/AngelS28/Markdown_Github/blob/main/README.md)             [Next Page](https://github.com/AngelS28/Markdown_Github/blob/main/yourAccount.md)
