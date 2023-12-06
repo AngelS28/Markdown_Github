@@ -30,10 +30,11 @@ If you are using an older Chrome OS device, another method is reuqired: <br />
 ## Authenicating with GitHub and Git <br />
 When you connect to a GitHub repository Git, you will need to authenticate with GitHub using either HTTPS or SSH. You can authenticate to GitHub using GitHub CLI, for either HTTP or SSH. <br />
 
-## Learn about `gh auth login`
+##Learn about `gh auth login`
 
 <br /> 
-Authenicate with a GitHub host. <br />
+Authenicate with a GitHub host. 
+<br />
 The default authentication model is a web-based browser flow. After completetion, an authentication toke nwill be stored securely in the system credential store. If a credntial store is not found or there is an issue using it gh will fallback to writing the token to a plain text file. You can use `gh auth status` for its stored location. 
 
 <br />
