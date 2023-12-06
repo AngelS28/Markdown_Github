@@ -26,9 +26,9 @@ If you are using an older Chrome OS device, another method is reuqired: <br />
   `$ git config -- global user.name` <br />
     `> Angel Sun`
 <br />
-<br />
-## Authenicating with GitHub and Git 
-<br />
+
+## Authenicating with GitHub and Git
+
 When you connect to a GitHub repository Git, you will need to authenticate with GitHub using either HTTPS or SSH. You can authenticate to GitHub using GitHub CLI, for either HTTP or SSH. <br />
 
 ## Learn about `gh auth login`
