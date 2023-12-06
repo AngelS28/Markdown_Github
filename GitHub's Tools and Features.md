@@ -32,11 +32,17 @@ If you are using an older Chrome OS device, another method is reuqired: <br />
 When you connect to a GitHub repository Git, you will need to authenticate with GitHub using either HTTPS or SSH. You can authenticate to GitHub using GitHub CLI, for either HTTP or SSH. <br />
 
 ## Learn about `gh auth login`
-
 Authenicate with a GitHub host. 
 <br />
 The default authentication model is a web-based browser flow. After completetion, an authentication toke nwill be stored securely in the system credential store. If a credntial store is not found or there is an issue using it gh will fallback to writing the token to a plain text file. You can use `gh auth status` for its stored location. 
 
 <br />
 
-Next Steps
+## Next Steps
+
+You now have Git and GitHub all set up. You may now choose to create a repository where you can put your projects. Saving your code in a repository allows you to back up your code and share it around the world. <br />
+
+*Creating a repository for your project allows you to store code in GitHub. This provides a backup of your work that you can choose to share with other developers. "Create a repository". <br />
+*Forking a repository will allow you to make changes to another repository without affecting the orginal. "Fork a repository" <br />
+*Each repository on GitHub is owned by a person or an organization. You can interact with the people, repositories, and organizations by connecting and following them on GitHub. "Be Soical" <br />
+*GitHub has a great support community where you can aks for jep and talk to people from around the world. Join the conversion on "GitHub Community"
