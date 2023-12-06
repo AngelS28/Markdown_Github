@@ -13,12 +13,14 @@ To use Git on the command line, you'll need to download, install, and configure 
 ## Setting up Git 
 
 1. [Download and install Git](https://git-scm.com/downloads) <br />
-<br />**NOTE**: Most Chrome OS devices from 2020 onwards now have a built-in Linux environment, which includes Git. To enable it, go to the Launcher, search Linuex, and click **Turn On**. <br />
+<br />**NOTE**: Most Chrome OS devices from 2020 onwards now have a built-in Linux environment, which includes Git. To enable it, go to the Launcher, search Linuex, and click **Turn On**.
+<br />
+
 If you are using an older Chrome OS device, another method is reuqired: <br />
   a. Install a terminal emulator such as Termux from the Google Play Store on your Chrome OS device.
   b. From the ternminal emulator that you installed, install Git. For example, in Termux, enter `apt install git` and then type `y` when prompted.  <br />
 
-  2. Setting up your Git username for **every** repository on your computer <br />
+  3. Setting up your Git username for **every** repository on your computer <br />
   Open Git Bash. <br />
   <br />Set a Git username: <br />
   `git config -- global user.name "Angel Sun"`<br />
@@ -33,6 +35,7 @@ When you connect to a GitHub repository Git, you will need to authenticate with 
 
 ## Learn about `gh auth login`
 Authenicate with a GitHub host. 
+
 <br />
 The default authentication model is a web-based browser flow. After completetion, an authentication toke nwill be stored securely in the system credential store. If a credntial store is not found or there is an issue using it gh will fallback to writing the token to a plain text file. You can use `gh auth status` for its stored location. 
 
