@@ -1,4 +1,4 @@
-# Navigator Of GitHub<br />
+# GitHub Navigator <br />
 
 ### Made by Angel Sun <br />
 
