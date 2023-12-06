@@ -34,6 +34,9 @@ You can unfollow someone if you do not wish to see their public activity on GitH
 
 <br />
 
+3. You can find the user by putting their username, email or full name in the search bar.
+![](https://github.com/AngelS28/Markdown_Github/blob/main/Images/searchPeople.png) 
+
 ## Watching a repository
 You can subscribe to a repository to watch it and receive notifications for activity in it. When the owner updates the repository, you will see the changes in your peronal dashboard.
 <br />
