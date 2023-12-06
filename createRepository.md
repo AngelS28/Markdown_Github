@@ -23,3 +23,8 @@ You can store a variety of projects in GitHub repositories, including open-sourc
 5. Select **Initialize this repository with a README** 
 
 ![](https://github.com/AngelS28/Markdown_Github/blob/main/Images/README.png)
+
+6. Click on **Create Repository**
+<br />
+<br />
+Congratulations! You've completed the tutorial by successfully creating your first repository! 
