@@ -13,10 +13,13 @@ You can store a variety of projects in GitHub repositories, including open-sourc
 ![](https://github.com/AngelS28/Markdown_Github/blob/main/Images/nameRepo.png)
 
 <br />
+
 3. Optionally, add a description of your repository. For example, "This is my first repository on GitHub."
 <br />
-4. Choose a repository visibility. You can pick either **Punlic** or **Private**. Which limits visibility and access to your repository. 
+
+4. Choose a repository visibility. You can pick either **Punlic** or **Private**. Which limits visibility and access to your repository. <br />
 <br />
-5. Select **Initialize this repository with a README.** 
+
+5. Select **Initialize this repository with a README** 
 
 ![](https://github.com/AngelS28/Markdown_Github/blob/main/Images/README.png)
