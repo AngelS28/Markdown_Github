@@ -31,3 +31,13 @@ You can unfollow someone if you do not wish to see their public activity on GitH
 <br />
 
 ![](https://github.com/AngelS28/Markdown_Github/blob/main/Images/collaborate.png) 
+
+<br />
+
+## Watching a repository
+You can subscribe to a repository to watch it and receive notifications for activity in it. When the owner updates the repository, you will see the changes in your peronal dashboard.
+<br />
+To watch a repository, at the top of the page, click **Watch**.
+<br />
+
+![](https://github.com/AngelS28/Markdown_Github/blob/main/Images/watching.png)
