@@ -28,9 +28,10 @@ You can store a variety of projects in GitHub repositories, including open-sourc
 <br />
 <br />
 
-** Commit your first change 
+## Commit your first change 
 When you had finished creating your new repository, you initialized it with a *README* file. *README* file is a great place to describe your project in more detail or add some documentation such as how to install or use your project. The contents of your *README* file are automatically shown on the front page of your repository.
 <br />
+
 Let's commit a change to the README file. 
 <br />
 
