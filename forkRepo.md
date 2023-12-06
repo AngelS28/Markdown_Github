@@ -17,6 +17,8 @@ You might fork a project to propose changes to the upstream repository. In this 
 <br />
 
 2.. In the top-right corner of the page, click **Fork**.
+<br />
+
 ![](https://github.com/AngelS28/Markdown_Github/blob/main/Images/forkReop.png)
 
 3. Under "Owner", select the drop won menu and click an owner for the forked repository.
