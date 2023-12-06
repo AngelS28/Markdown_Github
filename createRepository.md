@@ -37,9 +37,22 @@ Let's commit a change to the README file.
 <br />
 
 1. In your repository's list of files, select *README.md*
+  ![](https://github.com/AngelS28/Markdown_Github/blob/main/Images/viewReadme.png)
 
 
 2. In the upper right corner of the file view, click on the  ✏ sign to open the file editor.
+
+![](https://github.com/AngelS28/Markdown_Github/blob/main/Images/editReadme.png)
+
+3. In the text box, type something about yourself.
+<br />
+
+4. Above the new content, click **Preview**
+![](https://github.com/AngelS28/Markdown_Github/blob/main/Images/preview.png)
+
+5. Review the changes you made to the file. If you select **Show diff**, you will see the new content in green.
+
+![](https://github.com/AngelS28/Markdown_Github/blob/main/Images/editPreview.png)
 
  
 
