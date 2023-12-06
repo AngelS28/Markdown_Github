@@ -46,7 +46,7 @@ Let's commit a change to the README file.
  ![](https://github.com/AngelS28/Markdown_Github/blob/main/Images/viewReadme.png)
 
 
-3. In the upper right corner of the file view, click on the  ✏ sign to open the file editor.
+2. In the upper right corner of the file view, click on the  ✏ sign to open the file editor.
 
 ![](https://github.com/AngelS28/Markdown_Github/blob/main/Images/editReadme.png)
 
