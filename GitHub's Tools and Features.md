@@ -22,9 +22,10 @@ To use Git on the command line, you'll need to download, install, and configure 
   <br />
   
   b. From the ternminal emulator that you installed, install Git. For example, in Termux, enter `apt install git` and then type `y` when prompted.  <br />
-  
 
-  3. Setting up your Git username for **every** repository on your computer <br />
+  <br />
+
+  2. Setting up your Git username for **every** repository on your computer <br />
   Open Git Bash. <br />
   <br />Set a Git username: <br />
   ```git config -- global user.name "Angel Sun"```<br />
