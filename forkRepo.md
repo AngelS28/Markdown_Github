@@ -12,4 +12,4 @@ For example, you can forks to propose changes related to fixing a bug. Rather th
 You might fork a project to propose changes to the upstream repository. In this case, it's good practice to regularly sync your fork with the upstream repository. Here are the steps to fork the repository. 
 
 <br />
-1. Go to GitHub.com and navigate to [](https://github.com/AngelS28/helloYou) repository.
+1. Go to GitHub.com and navigate to [ ](https://github.com/AngelS28/helloYou) repository.
