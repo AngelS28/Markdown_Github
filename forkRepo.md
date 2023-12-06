@@ -31,4 +31,14 @@ You might fork a project to propose changes to the upstream repository. In this 
 6. Optionally, select **Copy the DEFAULT branch only**. For many forking scenarios, such as contributing to open source projects, you only need to copy the default branch.
 <br />
 
-7. Finally, click on **Create fork**. 
+7. Finally, click on **Create fork**.
+
+<br />
+
+<br />
+
+[Previous Page](https://github.com/AngelS28/Markdown_Github/blob/main/createRepository.md)
+
+<br />
+
+[Next Page](https://github.com/AngelS28/Markdown_Github/blob/main/collabrateWithOthers.md)
