@@ -67,4 +67,5 @@ You now have Git and GitHub all set up. You may now choose to create a repositor
 
 [Back to Mainpage](https://github.com/AngelS28/Markdown_Github/blob/main/README.md)                             
 <br />
+
 [Next Page](https://github.com/AngelS28/Markdown_Github/blob/main/yourAccount.md)
