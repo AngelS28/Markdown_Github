@@ -50,19 +50,19 @@ The default authentication model is a web-based browser flow. After completetion
 
 You now have Git and GitHub all set up. You may now choose to create a repository where you can put your projects. Saving your code in a repository allows you to back up your code and share it around the world. <br />
 
-* Creating your account, the first thing you should do it's to create an GitHub account that will store all your projects, ideas and work. It's important to for a user to know how to access their acccount. [Create Account](https://github.com/AngelS28/Markdown_Github/blob/main/yourAccount.md)
+* Creating your account, the first thing you should do it's to create an GitHub account that will store all your projects, ideas and work. It's important to for a user to know how to access their acccount. Click: [Create Account](https://github.com/AngelS28/Markdown_Github/blob/main/yourAccount.md) to start on your tutorial.
 
 <br />
 
-* Creating a repository for your project allows you to store code in GitHub. This provides a backup of your work that you can choose to share with other developers. [Create Repository](https://github.com/AngelS28/Markdown_Github/blob/main/createRepository.md)
+* Creating a repository for your project allows you to store code in GitHub. This provides a backup of your work that you can choose to share with other developers. Click: [Create Repository](https://github.com/AngelS28/Markdown_Github/blob/main/createRepository.md) to start on your tutorial.
 
 <br />
 
-* Forking a repository will allow you to make changes to another repository without affecting the orginal. [Fork Repository](https://github.com/AngelS28/Markdown_Github/blob/main/forkRepo.md)
+* Forking a repository will allow you to make changes to another repository without affecting the orginal. Click: [Fork Repository](https://github.com/AngelS28/Markdown_Github/blob/main/forkRepo.md) to start on your tutorial.
 
 <br />
 
-* Each repository on GitHub is owned by a person or an organization. You can interact with the people, repositories, and organizations by connecting and following them on GitHub. [Build Collaboration ](https://github.com/AngelS28/Markdown_Github/blob/main/collabrateWithOthers.md)
+* Each repository on GitHub is owned by a person or an organization. You can interact with the people, repositories, and organizations by connecting and following them on GitHub. Click: [Build Collaboration ](https://github.com/AngelS28/Markdown_Github/blob/main/collabrateWithOthers.md) to start om your tutorial.
 
 <br />
 
