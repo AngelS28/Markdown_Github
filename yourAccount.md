@@ -16,7 +16,7 @@ The password should be at least:  <br />
 * Generate a unique password for GitHub. If you use your GitHub password elsewhere and that service is compromised, then attackers or other malicious actors could use that information to access your account on GitHub. 
 
 ## 2. Verifying your email address <br />
-You can verify your email address after signing up for a new account, or when you add a new email address. If an email address is undeliverable or bouncing, it will be unverified. <br />
+You can verify your email address after signing up for a new account or adding a new one. If an email address is undeliverable or bouncing, it will be unverified. <br />
 
 ### Here are the steps to verify your email: <br />
 
@@ -24,8 +24,10 @@ You can verify your email address after signing up for a new account, or when yo
 
 ![Settings](https://github.com/AngelS28/Markdown_Github/blob/main/Images/Settings.png)
 
-3. 
+2. On the left section of the sidebar, click **Emails** <br />
 
+3. Under the email page, you can check the verification for your primary email, and allows you to add another email for backup. On the backup email section, it allows you to receive notifications in case there needs to be a password reset. <br />
 
+![](https://github.com/AngelS28/Markdown_Github/blob/main/Images/Email.png)
 
 
