@@ -56,4 +56,7 @@ Let's commit a change to the README file.
 
 6. **REMEBER** to click **Commit Changes** to save your work. The "Commit message" field means commit message that describes the change you made to the file. 
  
+<br />
+<br />
 
+Congratulations! You've successfully created your first repository and made  commit change in your *README.md* file.
