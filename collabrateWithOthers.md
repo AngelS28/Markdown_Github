@@ -1,4 +1,4 @@
-# Be Social 
+# Build Connection
 You can interact with people, repositories and organizations in GitHub. 
 
 ## Following people 
