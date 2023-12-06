@@ -59,6 +59,7 @@ Let's commit a change to the README file.
 5. Review the changes you made to the file. If you select **Show diff**, you will see the new content in green.
 
 <br />
+
 ![](https://github.com/AngelS28/Markdown_Github/blob/main/Images/editPreview.png)
 
 6. **REMEBER** to click **Commit Changes** to save your work. The "Commit message" field means commit message that describes the change you made to the file. 
