@@ -13,4 +13,4 @@ You might fork a project to propose changes to the upstream repository. In this 
 
 <br />
 
-1. Go to GitHub.com and navigate to [AngelS28/helloYou](https://github.com/AngelS28/helloYou)
+1. Go to GitHub.com and navigate to [AngelS28/helloYou](https://github.com/AngelS28/helloYou) repository.
