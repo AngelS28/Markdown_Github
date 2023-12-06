@@ -30,4 +30,6 @@ You can verify your email address after signing up for a new account or adding a
 
 ![](https://github.com/AngelS28/Markdown_Github/blob/main/Images/Email.png)
 
+4. GitHub will send you notifications through your primary email after you have verified your email. It's to note that, you should check and ensure that you're signed into the correct account on GitHub. 
+
 
