@@ -20,3 +20,9 @@ You can unfollow someone if you do not wish to see their public activity on GitH
 
 2. Under the user's profile picture, click **Unfollow**.
 
+## Collaborate with other people
+1. Click on the **Settings** that's on the top-right of your repository.
+![](https://github.com/AngelS28/Markdown_Github/blob/main/Images/generalSetting.png)
+
+2. Click on the **Collaborators** on the left sidebar, then it will show who had access to your repository. You can also invite people to be your collaborator by clicking on **Add People**.
+![](https://github.com/AngelS28/Markdown_Github/blob/main/Images/collaborate.png) 
