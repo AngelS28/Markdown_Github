@@ -20,6 +20,8 @@ You can unfollow someone if you do not wish to see their public activity on GitH
  <br />
 
 2. Under the user's profile picture, click **Unfollow**.
+<br />
+
 
 ## Collaborate with other people
 1. Click on the **Settings** that's on the top-right of your repository.
