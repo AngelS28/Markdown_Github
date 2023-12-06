@@ -27,21 +27,21 @@ To use Git on the command line, you'll need to download, install, and configure 
   3. Setting up your Git username for **every** repository on your computer <br />
   Open Git Bash. <br />
   <br />Set a Git username: <br />
-  `git config -- global user.name "Angel Sun"`<br />
+  ```git config -- global user.name "Angel Sun"```<br />
  <br /> Confirm that you have set the Git username correctly: <br />
-  `$ git config -- global user.name` <br />
-    `> Angel Sun`
+  ```$ git config -- global user.name``` <br />
+    ```> Angel Sun```
 <br />
 
 ## Authenticating with GitHub and Git
 
 When you connect to a GitHub repository Git, you will need to authenticate with GitHub using either HTTPS or SSH. You can authenticate to GitHub using GitHub CLI, for either HTTP or SSH. <br />
 
-## Learn about `gh auth login`
+## Learn about ```gh auth login```
 Authenicate with a GitHub host. 
 <br />
 
-The default authentication model is a web-based browser flow. After completetion, an authentication toke nwill be stored securely in the system credential store. If a credntial store is not found or there is an issue using it gh will fallback to writing the token to a plain text file. You can use `gh auth status` for its stored location. 
+The default authentication model is a web-based browser flow. After completetion, an authentication toke nwill be stored securely in the system credential store. If a credntial store is not found or there is an issue using it gh will fallback to writing the token to a plain text file. You can use ```gh auth status``` for its stored location. 
 
 <br />
 
@@ -65,4 +65,4 @@ You now have Git and GitHub all set up. You may now choose to create a repositor
 
 <br />
 
-[Back to Mainpage](https://github.com/AngelS28/Markdown_Github/blob/main/README.md)                  <br/> [Next Page](https://github.com/AngelS28/Markdown_Github/blob/main/yourAccount.md)
+[Back to Mainpage](https://github.com/AngelS28/Markdown_Github/blob/main/README.md)                             [Next Page](https://github.com/AngelS28/Markdown_Github/blob/main/yourAccount.md)
